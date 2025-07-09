@@ -1,4 +1,3 @@
-# Hi there 👋
 <h1 align="center">Hi 👋, I'm Beesan Demaide</h1>
 <h3 align="center">Computer Engineering Graduate | Passionate about Backend Development</h3>
 
