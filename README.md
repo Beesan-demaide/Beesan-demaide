@@ -71,4 +71,19 @@ I thrive in **collaborative environments** and enjoy contributing to team-driven
 
 ### 📊 **GitHub Stats:**
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beesan-demaide&show_icons=true&locale=en&layout=compact" alt="beesan-demaide" /></p>
-<p>&nbsp;
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beesan-demaide&show_icons=true&locale=en" alt="beesan-demaide" /></p>
+
+---
+
+### 📫 **How to Reach Me:**
+Feel free to reach out for collaboration, questions, or just to chat about tech! You can contact me via:
+- Email: [Beesan.demaide@gmail.com](mailto:Beesan.demaide@gmail.com)
+- LinkedIn: [Beesan Demaide](https://linkedin.com/in/beesan-demaide)
+
+---
+
+### 💡 **Current Projects and Interests:**
+- **Backend Development**: Focusing on scalable, efficient systems using **C# .NET**, **Node.js**, and **Python**.
+- **Full-Stack Web Development**: Building web apps with **React**, **Flutter**, and **Express**.
+- **Learning**: Exploring **Machine Learning** and **Data Science** techniques to expand my skill set.
+
