@@ -14,7 +14,7 @@ I thrive in **collaborative environments** and enjoy contributing to team-driven
 
 ### 🌐 **Connect with me:**
 <p align="left">
-  <a href="https://linkedin.com/in/beesan-demaide" target="blank">
+  <a href="https://www.linkedin.com/in/beesan-demaide-7219942b7/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beesan-demaide" height="30" width="40" />
   </a>
 </p>
@@ -78,7 +78,7 @@ I thrive in **collaborative environments** and enjoy contributing to team-driven
 ### 📫 **How to Reach Me:**
 Feel free to reach out for collaboration, questions, or just to chat about tech! You can contact me via:
 - Email: [beesan.demaide@gmail.com](mailto:beesan.demaide@gmail.com)
-- LinkedIn: [Beesan Demaide](https://linkedin.com/in/beesan-demaide)
+- LinkedIn: [Beesan Demaide](https://www.linkedin.com/in/beesan-demaide-7219942b7/)
 
 
 
