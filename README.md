@@ -77,13 +77,8 @@ I thrive in **collaborative environments** and enjoy contributing to team-driven
 
 ### 📫 **How to Reach Me:**
 Feel free to reach out for collaboration, questions, or just to chat about tech! You can contact me via:
-- Email: [Beesan.demaide@gmail.com](mailto:Beesan.demaide@gmail.com)
+- Email: [beesan.demaide@gmail.com](mailto:beesan.demaide@gmail.com)
 - LinkedIn: [Beesan Demaide](https://linkedin.com/in/beesan-demaide)
 
----
 
-### 💡 **Current Projects and Interests:**
-- **Backend Development**: Focusing on scalable, efficient systems using **C# .NET**, **Node.js**, and **Python**.
-- **Full-Stack Web Development**: Building web apps with **React**, **Flutter**, and **Express**.
-- **Learning**: Exploring **Machine Learning** and **Data Science** techniques to expand my skill set.
 
