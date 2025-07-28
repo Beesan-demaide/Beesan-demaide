@@ -1,14 +1,24 @@
-# Hi 👋, I'm Beesan Demaide
-<h3 align="center">Computer Engineering Graduate | Passionate about Full Stack Development</h3>
+## 👋 Hi there, I'm Beesan Demaide
+
+🎓 Computer Engineering Graduate | 💻 Backend Developer  
+📍 Based in Palestine | 🗓️ Class of 2025 - An-Najah National University  
 
 ---
 
-### 👩‍💻 **About Me:**
-I’m a **Computer Engineering graduate** from **An-Najah National University** (Class of 2025). I have hands-on experience in a variety of programming languages and technologies, including **C# .NET**, **MongoDB**, **SQL**, **Python**, **Flutter**, **React**, **JavaScript**, **HTML**, and **CSS**. 
+### 👩‍💻 About Me
 
-I am passionate about both **backend** and **frontend development**, and I’m always eager to learn and apply new technologies to build **scalable** and **efficient** applications. Whether it's creating dynamic front-end user interfaces or designing robust back-end architectures, I enjoy working across the entire tech stack.
+I'm a passionate backend developer with solid experience in:
 
-I thrive in **collaborative environments** and enjoy contributing to team-driven projects where **innovation** and **problem-solving** are key to success.
+- 🧠 **C# .NET**, **SQL Server**, **MongoDB**, **Python**, and RESTful APIs  
+- 🛠️ Building scalable systems and writing clean, maintainable code  
+- 🗂️ Database design, system architecture, and backend optimization  
+
+While my focus is backend, I also have **strong practical skills** in:
+
+- 🖥️ **Frontend:** HTML, CSS, JavaScript  
+- 📱 **Cross-platform apps:** Flutter  
+
+I love working in team environments where I can contribute to real-world solutions, learn continuously, and grow technically and creatively.
 
 ---
 
